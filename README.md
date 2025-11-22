@@ -83,9 +83,6 @@ This project transforms an ESP32 and a common NRF24L01+ module into a sophistica
     * The RF Spectrum Scanner interface should load, and you can begin visualizing and sonifying the airwaves!
 
 ## Gallery (Screenshots & Device)
-
-*(Add screenshots of your web interface and final device here)*
-
 ![Spectrum View](https://raw.githubusercontent.com/dkydivyansh/ESP32-RF-Spectrum-Scanner/66d538593cd72311e492d34a8d5b6a9f5a227f4d/images/web-gui1.png)
 *Caption: Real-time spectrum view showing active signals.*
 
