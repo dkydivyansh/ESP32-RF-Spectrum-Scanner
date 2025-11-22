@@ -18,8 +18,8 @@
 #define RSSI_SAMPLES 10 // Number of samples per channel for pseudo-RSSI reading
 
 // Network credentials
-const char* ssid = "RF-Analyser-4.0";
-const char* password = "0987654321";
+const char* ssid = "RF-Analyser";
+const char* password = "password";
 
 // Global objects
 SPIClass hspi(HSPI);
