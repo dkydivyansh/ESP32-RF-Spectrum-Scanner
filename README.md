@@ -78,7 +78,7 @@ This project transforms an ESP32 and a common NRF24L01+ module into a sophistica
     * Select your ESP32 board and COM port.
     * Compile and upload the sketch.
 4.  **Connect and Scan:**
-    * On your computer or phone, search for a Wi-Fi network named **"RF-Analyser-Pro"** and connect to it using the password **"password"**.
+    * On your computer or phone, search for a Wi-Fi network named **"RF-Analyser"** and connect to it using the password **"password"**.
     * Open a web browser and navigate to **`192.168.4.1`**.
     * The RF Spectrum Scanner interface should load, and you can begin visualizing and sonifying the airwaves!
 
